@@ -1,0 +1,90 @@
+.body {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+}
+#login {
+  background-color: #ff0000;
+}
+
+.formLogin {
+  background-color: #ff0000;
+  color: #ffffff;
+  font-size: 6vh;
+  padding: 10px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: start;
+  justify-content: center;
+  width: 600px;
+  align-items: center;
+  height: 350px;
+}
+
+.cadastro-style{
+    color: white;
+    text-decoration: none;
+}
+
+.caixa {
+  margin-top: 100px;
+  margin-left: 480px;
+}
+
+.container {
+  color: white;
+}
+
+.Login {
+  display: flex;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.navbar-expand-lg,
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.Brasil {
+  margin-left: 200px;
+}
+
+.formulario {
+  display: flex;
+  font-size: 20px;
+  flex-direction: column;
+}
+
+input {
+  border-radius: 30px;
+}
+
+.cadastro-nav {
+  text-decoration: none;
+}
+
+.naoCadastro {
+  display: flex;
+  font-size: small;
+  flex-direction: row-reverse;
+}
+
+.textNaoCadastro {
+  color: white;
+  text-decoration: none;
+}
+
+.buttonEntrar {
+  border-radius: 30px;
+  border: none;
+}
+
+.divButtonEntrar {
+  display: flex;
+  justify-content: flex-end;
+  width: 5vw;
+  margin-left: 400px;
+}
